@@ -4,3 +4,6 @@
 [submodule "pelican-jojo"]
 	path = pelican-jojo
 	url = https://github.com/aysf/jojo.git
+[submodule "brutalist"]
+	path = brutalist
+	url = https://github.com/aysf/brutalist.git
