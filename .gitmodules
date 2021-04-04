@@ -1,3 +1,6 @@
 [submodule "nusa-pelican-flex"]
 	path = nusa-pelican-flex
 	url = https://github.com/aysf/Flex.git
+[submodule "pelican-jojo"]
+	path = pelican-jojo
+	url = https://github.com/aysf/jojo.git
